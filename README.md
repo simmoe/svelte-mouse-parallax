@@ -1,8 +1,8 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Mouse parallax with parallax.js and Svelte 
 
----
+<a href='https://svelte-mouse-parallax.now.sh/'>demo here</a>
 
-# svelte app
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
